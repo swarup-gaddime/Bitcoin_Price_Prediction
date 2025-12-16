@@ -1,17 +1,17 @@
 # Bitcoin_Price_Predictor
 
-## 📌 Project Overview
+## Project Overview
 
 Bitcoin is a highly volatile cryptocurrency whose price is influenced by market trends, investor sentiment, and global economic factors. Traditional prediction methods often fail to capture its complex time-series patterns. This project uses Deep Learning models, particularly Long Short-Term Memory (LSTM) networks, to predict future Bitcoin closing prices based on historical market data.
 
-## 🎯 Objective
+## Objective
 
 • Analyze historical Bitcoin price movements
 • Model time-series data using Deep Learning
 • Predict future closing prices of Bitcoin
 • Evaluate prediction performance using error metrics
 
-## 📊 Dataset Description
+## Dataset Description
 
 The dataset contains historical Bitcoin market data with the following features:
 
@@ -28,7 +28,7 @@ Technical Indicators:
 • Relative Strength Index (RSI)
 • Moving Average Convergence Divergence (MACD)
 
-## 🧠 Deep Learning Model
+## Deep Learning Model
 
 • Model Used: Long Short-Term Memory (LSTM)
 • Why LSTM?
@@ -36,7 +36,7 @@ Technical Indicators:
    • Handles sequential price patterns effectively
    • Suitable for financial forecasting problems
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 • Language: Python
 • Libraries & Frameworks:
@@ -45,7 +45,7 @@ Technical Indicators:
    • Matplotlib
 • Development Environment: Jupyter Notebook
 
-## 🔍 Methodology
+## Methodology
 
 1) Data Collection
 • Historical Bitcoin price data
@@ -66,6 +66,6 @@ Technical Indicators:
 6) Prediction
 • Forecast future closing prices
 
-## 📈 Results
+## Results
 
 The LSTM model successfully learned price trends and temporal dependencies. While exact price prediction is difficult due to market volatility, the model produced accurate trend-based forecasts with reduced error rates compared to traditional ML models.
