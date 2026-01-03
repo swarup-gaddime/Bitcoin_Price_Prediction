@@ -1,4 +1,4 @@
-# Bitcoin_Price_Predictor
+# Bitcoin_Price_Prediction
 
 ## Project Overview
 
